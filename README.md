@@ -1,5 +1,1 @@
-# Coding on Phone
-First README file for a linux environment on phone
-
-## Trying out in another device
-### Emacs can really be stressful. why not just vim
+This repository contains the solutions to the tasks for the project: 0x1B. C - Sorting algorithms & Big O
